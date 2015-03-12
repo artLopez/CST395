@@ -3,7 +3,7 @@
  */
 import java.util.*;
 
-public class Main {
+public class GroupApp{
     public static void main(String[] args){
         Scanner reader = new Scanner(System.in);
         String names = reader.nextLine();
